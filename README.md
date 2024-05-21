@@ -22,7 +22,7 @@ The data used for this project was from Onyx Data (DataDNA Dataset Challenge).
 
 * Monthly Track streaming Performance: Recognizing top month with highest average streams based on tracks. 
 
-* Artist Most stream track and total streams Correlation: Exploring correlations between tracks and number of streams.
+* Artist Most streamed track and total streams Correlation: Exploring correlations between tracks and number of streams.
 
 * Top 5 most streamed tracks and the artists: Top N (5) most streamed tracks was recognised in relation to the artists.
 
