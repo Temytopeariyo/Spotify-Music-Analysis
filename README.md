@@ -35,14 +35,21 @@ The data used for this project was from Onyx Data (DataDNA Dataset Challenge).
 * Playlist and Artist names: The distribution portray how spotify playlist affect Artist performance.
 
 ### Data Preparation and Transformation
-To make ready dataset for the analysis, Power Bi was used to turn the unrelated sources of data into coherent, visually immersive, and interactive insights. In response to the given task, a careful assessment of the necessary database tables was carried out. Specifically, the database table was imported from excel and tested for errors. The table which formed the basis for the subsequent steps was free of error during cleaning exercise.
+To make ready dataset for the analysis, Power Bi was used to turn the unrelated sources of data into coherent, visually immersive, and interactive insights. In response to the given task, a careful assessment of the necessary database tables was carried out. Specifically, the database table was imported from excel and tested for errors. The table which formed the basis for the subsequent steps was not free from as Streams, in shazam charts, Key column  were all detected having an error and empty cells which were corrected, replaced with 0 and None respectively. The Day, Month and Year columns were also harmonised into a new single column for easy understanding. The 3 columns were subsequently deleted from the table as the new one that combined all has been added to the table. 
 
-Upon this, we are able to harmonise this dataset and turn the unrelated sources of data into coherent, visually immersive, and interactive insights. 
+The power query was closed and the dataset applied accordingly and ready for visuals. From this dataset, another table was created for the date so as to have it according to Day, Month and year of track relaese with the formular below:
 
-Form this dataset, the following measures where created for easy visualizing: Average income, Bike Buyers, Non buyers, Number of Femaie buyers, Number of Male buyers and Total participants. These measures became the central point where all the other informations in our analysis could link to. By using specific measures from this table of dataset, we established connections to other related distributions. 
+
+![image](![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/ba0e30f8-70fb-4623-8c19-bcab0f926ebd)
+
+the above was marked as date table afterwards and created as measures with Day of week, Month, and year. These measures became the central point where all the other informations related to Date in our analysis could link to. By using specific measures from this table of dataset, we established connections to other related distributions. 
 
 ### Data Modelling
-We only have a piece of dataset involved hence the logical representation of how data is structured and related within the tool and the collection of tables and relationships between them that are used to create reports and visualizations was not necessary since the intergration of tables were not involved. 
+Since I have establised another table, the logical representation of how data is structured and related within the tool and the collection of tables and relationships between them that are used to create reports and visualizations was necessary, hence the intergration of tables was involved (one to many)
+
+
+![image](![image](![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/55a3d484-dd97-46f6-987d-db12fe15acda)
+
 
 ### Data Exploration and Visualization
 As the data was structured, I made sure I created related calculations that would help the analysis. These calculations included key measures from this dataset and the following measures were created for easy visualizing: Average income, Bike Buyers, Non buyers, Number of Femaie buyers, Number of Male buyers and Total participants. These measures became the central point where all the other informations in our analysis could link to. 
