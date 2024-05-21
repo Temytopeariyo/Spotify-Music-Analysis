@@ -11,7 +11,7 @@ This musical tracks Performance report provides information on tracks online str
 
 
 
-![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/17ab73f3-21b9-4770-aba4-1ee30d9aabef)
+!(https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/17ab73f3-21b9-4770-aba4-1ee30d9aabef)
 
 
 This way, Artists can see their performance and improve on their musical (song recording) strategy.
@@ -40,7 +40,7 @@ To make ready dataset for the analysis, Power Bi was used to turn the unrelated 
 The power query was closed and the dataset applied accordingly and ready for visuals. From this dataset, another table was created for the date so as to have it according to Day, Month and year of track relaese with the formular below:
 
 
-![image](![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/ba0e30f8-70fb-4623-8c19-bcab0f926ebd)
+!(![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/ba0e30f8-70fb-4623-8c19-bcab0f926ebd)
 
 the above was marked as date table afterwards and created as measures with Day of week, Month, and year. These measures became the central point where all the other informations related to Date in our analysis could link to. By using specific measures from this table of dataset, we established connections to other related distributions. 
 
@@ -48,7 +48,7 @@ the above was marked as date table afterwards and created as measures with Day o
 Since I have establised another table, the logical representation of how data is structured and related within the tool and the collection of tables and relationships between them that are used to create reports and visualizations was necessary, hence the intergration of tables was involved (one to many)
 
 
-![image](![image](![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/55a3d484-dd97-46f6-987d-db12fe15acda)
+!(https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/55a3d484-dd97-46f6-987d-db12fe15acda)
 
 
 ### Data Exploration and Visualization
