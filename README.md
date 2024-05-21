@@ -13,7 +13,8 @@ This musical tracks Performance report provides information on tracks online str
 
 ![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/17ab73f3-21b9-4770-aba4-1ee30d9aabef)
 
-This way, you can artist performance and improve your musical (song recording) strategy.
+
+This way, you can see your performance as artist and improve on your musical (song recording) strategy.
 
 
 You can interact with the report [HERE]()
