@@ -11,7 +11,7 @@ This musical tracks Performance report provides information on tracks online str
 
 
 
-!(https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/17ab73f3-21b9-4770-aba4-1ee30d9aabef)
+!(![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/17ab73f3-21b9-4770-aba4-1ee30d9aabef)
 
 
 This way, Artists can see their performance and improve on their musical (song recording) strategy.
@@ -48,7 +48,7 @@ the above was marked as date table afterwards and created as measures with Day o
 Since I have establised another table, the logical representation of how data is structured and related within the tool and the collection of tables and relationships between them that are used to create reports and visualizations was necessary, hence the intergration of tables was involved (one to many)
 
 
-!(https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/55a3d484-dd97-46f6-987d-db12fe15acda)
+!(![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/55a3d484-dd97-46f6-987d-db12fe15acda)
 
 
 ### Data Exploration and Visualization
