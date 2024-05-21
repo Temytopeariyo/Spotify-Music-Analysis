@@ -8,6 +8,9 @@ I deemed it fit to delve into an in-depth exploration of online musical tracks p
 Hence, I Welcome you to the intriguing world of data analysis! This analysis aims to uncover valuable insights and trends that lie within the data, shedding light on the dynamics of online streams, 
 listeners behavior, and more. Join me on this adventure journey as we navigate through the track numbers, revealing actionable findings that can drive strategic entertainment decisions and enhance positive artists performance in the forseeable future. 
 This musical tracks Performance report provides information on tracks online streams, Artists name, Track relaease date and track performance based on streams. The report allows you to visualise at a glance the tracks performance as they relate to different artists and their performance based on danceability,	valence, energy,	acousticness,	instrumentalness, liveness, and speechiness of their tracks.
+
+
+
 ![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/17ab73f3-21b9-4770-aba4-1ee30d9aabef)
 
 This way, you can artist performance and improve your musical (song recording) strategy.
