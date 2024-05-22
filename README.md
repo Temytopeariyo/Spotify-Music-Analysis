@@ -42,7 +42,11 @@ The power query was closed and the dataset applied accordingly and ready for vis
 
 !(![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/ba0e30f8-70fb-4623-8c19-bcab0f926ebd)
 
-the above was marked as date table afterwards and created as measures with Day of week, Month, and year. These measures became the central point where all the other informations related to Date in our analysis could link to. By using specific measures from this table of dataset, we established connections to other related distributions. 
+the above was marked as date table afterwards and created as measures with 
+• Year-to-Date (YTD) Total streams
+• Month-to-Date (MTD) Total streams
+• Year-over-Year (YOY)Total streams. 
+These measures became the central point where all the other informations related to Date in our analysis could link to. By using specific measures from this table of dataset, we established connections to other related distributions. 
 
 ### Data Modelling
 Since I have establised another table, the logical representation of how data is structured and related within the tool and the collection of tables and relationships between them that are used to create reports and visualizations was necessary, hence the intergration of tables was involved (one to many)
@@ -59,7 +63,7 @@ As the data was structured, All related calculations that would help the analysi
 
 
 ### Sales Report - Visualization
-During the visualization process, a comprehensive overview of total streams, tracks and average streams were provided through an information cards. The measures were dragged and dropped into these information cards and the total streams, tracks and average streams were all showcased. To enhanced analytical exploration, slicers were introduced, allowing for focused drill-through. These slicers that comprises Tracks, Date range, and Artist facilitated more targeted analysis. The online stream report was differenciated in terms of streamed by released date, Monthly streams, all tracks daily streams, artist most streamed track, Top 5 most streamed tracks and spotify playlist by artist name with the use of navigation button.
+I used PowerPoint to create the Canvas Background and during the visualization process, a comprehensive overview of total streams, tracks and average streams were provided through an information cards. The measures were dragged and dropped into these information cards and the total streams, tracks and average streams were all showcased. To enhanced analytical exploration, slicers were introduced, allowing for focused drill-through. These slicers that comprises Tracks, Date range, and Artist facilitated more targeted analysis. The online stream report was differenciated in terms of streamed by released date, Monthly streams, all tracks daily streams, artist most streamed track, Top 5 most streamed tracks and spotify playlist by artist name with the use of navigation button.
 
 
 Recognizing the potential need to address questions related to fans stream as it relates to different year, I implemented a navigation button. This button enabled a seamless transition to an analysis centered on Total streams, addressing a specific aspect of the data for a more comprehensive perspective. The visual reports in terms of both total streams and respective years as shown below:
@@ -70,22 +74,15 @@ Within the tracks performance report, a range of visualizations were constructed
 
 ![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/15e834ce-e687-4a81-be54-cacaeae9f9f1)
 
-Employing a map visualization, geographical data was harnessed to reveal the origins of sales and their magnitudes across region in the state on the second sheet of the project. The visual report is shown below:
+Incorporating the slicers enhance navigation that helps us differentiate each tracks, related period, and performance within period. 
 
-![image](https://github.com/Temytopeariyo/Bike-Sales-Performance-Report/assets/81833143/0a21e1d2-f5f8-4dcd-9b3e-a4d4bb1e8bd4)
-
-
-Incorporating the slicers enhance navigation that helps us differenciate Gender, Marital Status, and Region dispositions toward bike purchase. A consistent framework was established for the sales performance report, enabling a cohesive analysis across regions by selecting through the slicers to visualise bike purchased through the use of navigation button shown below:
-
-
-![image](https://github.com/Temytopeariyo/Bike-Sales-Performance-Report/assets/81833143/c09460ba-3ff4-4cef-9f41-108c03b190fb)
-
-You can interact with the report HERE
+You can relate with the report [HERE]()
 
 ### Insights and Recommendations
-The top customers, based on their significant sales contributions, play a vital role in boosting the company's revenue. These high-value customers likely possess considerable purchasing power attributed to their occupation, age bracket, Education and Commute distance. 
+The top artist, based on their tracks streaming performance online, play a vital role in boosting the entertainment industry insights. These high-value fans that stream the tracks likely possess considerable listening taste as it relates to songs danceability, valence, energy,	acousticness,	instrumentalness,	liveness and speechiness.
 
-Our analysis covered a range of intriguing sales trends. The total customers across the distributions amounted to 1,000 out of which, 511 were Males and 489 were Females. Notably, 481 out of the 1,000 were bike buyers and the remining 519 were none bike buyers. Based on the occupational distribution of Bike buyers, Professional occupational group has the highest customers of bike buyers followed by Skilled Manual which recorded 115, while Clerical has 88, Management 75 and the least bike buyers based on the occupational category is Manual with a total number of 55 bike buyers.
-There was a notable surge in total sales, reaching 200 quantities sold based on commute distance of 0 -1 mile to the store. While quantities sold witnessed a decrease to 33 on the commute distance above 10 miles to the Bike store. An unprecedented peak emerged to the distance of 2-5 miles, recording the highest 95 sales despite its distance to the bike store. Summarily, one can hardly say that the commute distance greatly affects bike purchase as customers living 2.5 miles to the Bike store buy more than the customers living 1-2 miles. Hence, the analysis provides a positive outlook for sales beyond the parameters provided.
+My analysis covered a range of intriguing stream trends. The total streams across all tracks amounted to 489 billion with the total tracks of 952 with average streams of 514 Million. Based on the songs danceability, valence, energy,	acousticness,	instrumentalness,	liveness and speechiness, Blinding Light done by The Weekend has the highest streams and performed most from all the tracks released from 1930 to 2023. The analysis shows that Music Fans streams most on friday being the last workday of the week and the start of the weekend. More tracks were streamed in May but with an average stream of 415.67 Million, while January has 133 tracks streams with the highest average stream of 727.15 Million. This depicts that same tracks were streamed over and over again in January than May.
 
-You can interact with the report HERE
+Lastly, the purpose of this analysis is to sensitize artist on their tracks weak points so as to improve better in the foreseeable future to have more streams and perform better.
+
+
