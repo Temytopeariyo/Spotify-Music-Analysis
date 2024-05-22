@@ -59,22 +59,16 @@ As the data was structured, All related calculations that would help the analysi
 
 
 ### Sales Report - Visualization
-During the visualization process, a comprehensive overview of total streams, tracks and average streams were provided through an information cards. The measures were dragged and dropped into these information cards and the total streams, tracks and average streams were all showcased. To enhanced analytical exploration, slicers were introduced, allowing for focused drill-through. These slicers that comprises Tracks, Date range, and Artist facilitated more targeted analysis. The online stream report was differenciated in terms of streamed by released date, Monthly streams, all tracks daily streams, artist most streamed track, Top 5 most streamed tracks and spotify playlist by artist name with the use of navigation button shown below:
-
-![image](https://github.com/Temytopeariyo/Bike-Sales-Performance-Report/assets/81833143/aba78dc6-826a-4869-b340-e293b35e9c56)
+During the visualization process, a comprehensive overview of total streams, tracks and average streams were provided through an information cards. The measures were dragged and dropped into these information cards and the total streams, tracks and average streams were all showcased. To enhanced analytical exploration, slicers were introduced, allowing for focused drill-through. These slicers that comprises Tracks, Date range, and Artist facilitated more targeted analysis. The online stream report was differenciated in terms of streamed by released date, Monthly streams, all tracks daily streams, artist most streamed track, Top 5 most streamed tracks and spotify playlist by artist name with the use of navigation button.
 
 
+Recognizing the potential need to address questions related to fans stream as it relates to different year, I implemented a navigation button. This button enabled a seamless transition to an analysis centered on Total streams, addressing a specific aspect of the data for a more comprehensive perspective. The visual reports in terms of both total streams and respective years as shown below:
 
-Recognizing the potential need to address questions related to quantities purchased as it relates to income by occupation of customers, I implemented a navigation button. This button enabled a seamless transition to an analysis centered on quantities, addressing a specific aspect of the data for a more comprehensive perspective. The visual reports in terms of both average of income and Occupation is shown below:
+!(![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/dd7456b9-8cc6-4b3a-a5f8-0a00d760f8bf)
 
-![image](https://github.com/Temytopeariyo/Bike-Sales-Performance-Report/assets/81833143/6b933381-e17a-4d1f-a0b7-eaa84808dc72)
+Within the tracks performance report, a range of visualizations were constructed to illuminate various aspects. Firstly, a visual depiction total streams in relation to yearly performance that was generated, shedding light on how music were streamed in different year. Similarly, separate visuals illustrated the correlation between online streams, monthly, and daily streams performance were showcased, offering distinct insights.The visual report is shown below:
 
-### Sales Report - Visualization
-Within the sales report, a range of visualizations were constructed to illuminate various aspects. Firstly, a visual depiction of age bracket distribution in relation to total sales that was generated, shedding light on how different age groups contribute to overall sales. Similarly, separate visuals illustrated the correlation between customer gender, marital status, and total sales, offering distinct insights.The visual report is shown below:
-
-![image](https://github.com/Temytopeariyo/Bike-Sales-Performance-Report/assets/81833143/c006587a-d30c-4d1e-a7f9-1704af24c982)
-![image](https://github.com/Temytopeariyo/Bike-Sales-Performance-Report/assets/81833143/94ac879d-d39d-4c26-9625-5c211574f5be)
-
+![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/15e834ce-e687-4a81-be54-cacaeae9f9f1)
 
 Employing a map visualization, geographical data was harnessed to reveal the origins of sales and their magnitudes across region in the state on the second sheet of the project. The visual report is shown below:
 
