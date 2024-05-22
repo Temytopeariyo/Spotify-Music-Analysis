@@ -83,6 +83,5 @@ The top artist, based on their tracks streaming performance online, play a vital
 
 My analysis covered a range of intriguing stream trends. The total streams across all tracks amounted to 489 billion with the total tracks of 952 with average streams of 514 Million. Based on the songs danceability, valence, energy,	acousticness,	instrumentalness,	liveness and speechiness, Blinding Light done by The Weekend has the highest streams and performed most from all the tracks released from 1930 to 2023. The analysis shows that Music Fans streams most on friday being the last workday of the week and the start of the weekend. More tracks were streamed in May but with an average stream of 415.67 Million, while January has 133 tracks streams with the highest average stream of 727.15 Million. This depicts that same tracks were streamed over and over again in January than May.
 
-Lastly, the purpose of this analysis is to sensitize artist on their tracks weak points so as to improve better in the foreseeable future to have more streams and perform better.
-
+Lastly, the purpose of this analysis is to sensitize music artists on their tracks weakness, and improve their subsequent recording so as to attrct more streams and consequently promote their music career.
 
