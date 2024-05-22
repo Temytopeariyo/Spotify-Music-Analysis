@@ -1,5 +1,4 @@
-# Spotify-Music-Analysis
-# Spotify Music tracks performance Report
+# Spotify-Music-Analysis Report
 
 ### Introduction
 
