@@ -52,10 +52,14 @@ Since I have establised another table, the logical representation of how data is
 
 
 ### Data Exploration and Visualization
-As the data was structured, I made sure I created related calculations that would help the analysis. These calculations included key measures from this dataset and the following measures were created for easy visualizing: Average income, Bike Buyers, Non buyers, Number of Femaie buyers, Number of Male buyers and Total participants. These measures became the central point where all the other informations in our analysis could link to. 
+As the data was structured, All related calculations that would help the analysis were amde. These calculations included key measures from this dataset and the following measures were created for easy visualizing under calender: Day of week, Month Name, Quarter and Year. These measures became the central point where all the other informations in our analysis could link to. 
+
+
+!(![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/62b35309-21fc-4b96-813b-46a0ec9e9b9e)
+
 
 ### Sales Report - Visualization
-During the visualization process, a comprehensive overview of our sales and customer metrics was provided through an information cards. The measures were dragged and dropped into these information cards and the Average income, Bike Buyers, Non buyers, Number of Femaie buyers, Number of Male buyers and Total participants were all showcased. For enhanced analytical exploration, slicers were introduced, allowing for focused drill-through. These slicers, Gender, Marrital Status and region facilitated more targeted analysis. The sales report was differenciated in terms of sales, income,age bracket, education, commute distance with the use of navigation button shown below:
+During the visualization process, a comprehensive overview of total streams, tracks and average streams were provided through an information cards. The measures were dragged and dropped into these information cards and the total streams, tracks and average streams were all showcased. To enhanced analytical exploration, slicers were introduced, allowing for focused drill-through. These slicers that comprises Tracks, Date range, and Artist facilitated more targeted analysis. The online stream report was differenciated in terms of streamed by released date, Monthly streams, all tracks daily streams, artist most streamed track, Top 5 most streamed tracks and spotify playlist by artist name with the use of navigation button shown below:
 
 ![image](https://github.com/Temytopeariyo/Bike-Sales-Performance-Report/assets/81833143/aba78dc6-826a-4869-b340-e293b35e9c56)
 
