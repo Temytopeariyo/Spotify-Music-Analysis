@@ -1,7 +1,7 @@
 # Spotify-Music-Analysis Report
 
 
-![](Spotifybanner.png)
+![](Spotify_banner.png)
 ### Introduction
 ---
 
