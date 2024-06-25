@@ -24,9 +24,11 @@ You can interact with the report [HERE]()
 
 
 ### Data Source
+---
 The data used for this project was from Onyx Data (DataDNA Dataset Challenge).
 
 ### Task
+---
 * Streaming trends: Analyzing yearly streams as it relates to two decades interval.
 
 * Monthly Track streaming Performance: Recognizing top month with highest average streams based on tracks. 
@@ -38,6 +40,7 @@ The data used for this project was from Onyx Data (DataDNA Dataset Challenge).
 * Playlist and Artist names: The distribution portray how spotify playlist affect Artist performance.
 
 ### Data Preparation and Transformation
+---
 To make ready dataset for the analysis, Power Bi was used to turn the unrelated sources of data into coherent, visually immersive, and interactive insights. In response to the given task, a careful assessment of the necessary database tables was carried out. Specifically, the database table was imported from excel and tested for errors. The table which formed the basis for the subsequent steps was not free from as Streams, in shazam charts, Key column  were all detected having an error and empty cells which were corrected, replaced with 0 and None respectively. The Day, Month and Year columns were also harmonised into a new single column for easy understanding. The 3 columns were subsequently deleted from the table as the new one that combined all has been added to the table. 
 
 The power query was closed and the dataset applied accordingly and ready for visuals. From this dataset, another table was created for the date so as to have it according to Day, Month and year of track relaese with the formular below:
@@ -52,6 +55,7 @@ the above was marked as date table afterwards and created as measures with
 These measures became the central point where all the other informations related to Date in our analysis could link to. By using specific measures from this table of dataset, we established connections to other related distributions. 
 
 ### Data Modelling
+---
 Since I have establised another table, the logical representation of how data is structured and related within the tool and the collection of tables and relationships between them that are used to create reports and visualizations was necessary, hence the intergration of tables was involved (one to many)
 
 
@@ -59,6 +63,7 @@ Since I have establised another table, the logical representation of how data is
 
 
 ### Data Exploration and Visualization
+---
 As the data was structured, All related calculations that would help the analysis were amde. These calculations included key measures from this dataset and the following measures were created for easy visualizing under calender: Day of week, Month Name, Quarter and Year. These measures became the central point where all the other informations in our analysis could link to. 
 
 
@@ -66,6 +71,7 @@ As the data was structured, All related calculations that would help the analysi
 
 
 ### Sales Report - Visualization
+---
 I used PowerPoint to create the Canvas Background and during the visualization process, a comprehensive overview of total streams, tracks and average streams were provided through an information cards. The measures were dragged and dropped into these information cards and the total streams, tracks and average streams were all showcased. To enhanced analytical exploration, slicers were introduced, allowing for focused drill-through. These slicers that comprises Tracks, Date range, and Artist facilitated more targeted analysis. The online stream report was differenciated in terms of streamed by released date, Monthly streams, all tracks daily streams, artist most streamed track, Top 5 most streamed tracks and spotify playlist by artist name with the use of navigation button.
 
 
@@ -82,6 +88,7 @@ Incorporating the slicers enhance navigation that helps us differentiate each tr
 You can relate with the report [HERE]()
 
 ### Insights and Recommendations
+---
 The top artist, based on their tracks streaming performance online, play a vital role in boosting the entertainment industry insights. These high-value fans that stream the tracks likely possess considerable listening taste as it relates to songs danceability, valence, energy,	acousticness,	instrumentalness,	liveness and speechiness.
 
 My analysis covered a range of intriguing stream trends. The total streams across all tracks amounted to 489 billion with the total tracks of 952 with average streams of 514 Million. Based on the songs danceability, valence, energy,	acousticness,	instrumentalness,	liveness and speechiness, Blinding Light done by The Weekend has the highest streams and performed most from all the tracks released from 1930 to 2023. The analysis shows that Music Fans streams most on friday being the last workday of the week and the start of the weekend. More tracks were streamed in May but with an average stream of 415.67 Million, while January has 133 tracks streams with the highest average stream of 727.15 Million. This depicts that same tracks were streamed over and over again in January than May.
