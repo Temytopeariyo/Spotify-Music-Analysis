@@ -1,8 +1,7 @@
 # Spotify-Music-Analysis Report
 
 
-![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/cab21655-ed8b-46ee-a77a-5a26989e5b6e)
-
+![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/6b9bcc6a-a97a-45c4-a16e-4e7eca8fe1fd)
 
 ### Introduction
 ---
