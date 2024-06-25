@@ -19,13 +19,11 @@ This musical tracks Performance report provides information on tracks online str
 
 This way, Artists can see their performance and improve on their musical (song recording) strategy.
 
-
 You can interact with the report [HERE]()
----
 
 ### Data Source
 The data used for this project was from Onyx Data (DataDNA Dataset Challenge).
----
+
 
 ### Task
 * Streaming trends: Analyzing yearly streams as it relates to two decades interval.
@@ -37,7 +35,7 @@ The data used for this project was from Onyx Data (DataDNA Dataset Challenge).
 * Top 5 most streamed tracks and the artists: Top N (5) most streamed tracks was recognised in relation to the artists.
 
 * Playlist and Artist names: The distribution portray how spotify playlist affect Artist performance.
----
+
 
 ### Data Preparation and Transformation
 To make ready dataset for the analysis, Power Bi was used to turn the unrelated sources of data into coherent, visually immersive, and interactive insights. In response to the given task, a careful assessment of the necessary database tables was carried out. Specifically, the database table was imported from excel and tested for errors. The table which formed the basis for the subsequent steps was not free from as Streams, in shazam charts, Key column  were all detected having an error and empty cells which were corrected, replaced with 0 and None respectively. The Day, Month and Year columns were also harmonised into a new single column for easy understanding. The 3 columns were subsequently deleted from the table as the new one that combined all has been added to the table. 
@@ -52,14 +50,14 @@ the above was marked as date table afterwards and created as measures with
 • Month-to-Date (MTD) Total streams
 • Year-over-Year (YOY)Total streams. 
 These measures became the central point where all the other informations related to Date in our analysis could link to. By using specific measures from this table of dataset, we established connections to other related distributions. 
----
+
 
 ### Data Modelling
 Since I have establised another table, the logical representation of how data is structured and related within the tool and the collection of tables and relationships between them that are used to create reports and visualizations was necessary, hence the intergration of tables was involved (one to many)
 
 
 !(![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/55a3d484-dd97-46f6-987d-db12fe15acda)
----
+
 
 ### Data Exploration and Visualization
 
@@ -67,7 +65,7 @@ As the data was structured, All related calculations that would help the analysi
 
 
 !(![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/62b35309-21fc-4b96-813b-46a0ec9e9b9e)
----
+
 
 ### Sales Report - Visualization
 I used PowerPoint to create the Canvas Background and during the visualization process, a comprehensive overview of total streams, tracks and average streams were provided through an information cards. The measures were dragged and dropped into these information cards and the total streams, tracks and average streams were all showcased. To enhanced analytical exploration, slicers were introduced, allowing for focused drill-through. These slicers that comprises Tracks, Date range, and Artist facilitated more targeted analysis. The online stream report was differenciated in terms of streamed by released date, Monthly streams, all tracks daily streams, artist most streamed track, Top 5 most streamed tracks and spotify playlist by artist name with the use of navigation button.
@@ -84,7 +82,7 @@ Within the tracks performance report, a range of visualizations were constructed
 Incorporating the slicers enhance navigation that helps us differentiate each tracks, related period, and performance within period. 
 
 You can relate with the report [HERE]()
----
+
 
 ### Insights and Recommendations
 The top artist, based on their tracks streaming performance online, play a vital role in boosting the entertainment industry insights. These high-value fans that stream the tracks likely possess considerable listening taste as it relates to songs danceability, valence, energy,	acousticness,	instrumentalness,	liveness and speechiness.
