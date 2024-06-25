@@ -1,7 +1,7 @@
 # Spotify-Music-Analysis Report
 
 
-![](Spotify_banner.png)
+![image](C:\Users\ARIYOM\Downloads\Spotify banner.png)
 ### Introduction
 ---
 
