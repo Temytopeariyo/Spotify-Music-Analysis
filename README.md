@@ -1,6 +1,7 @@
 # Spotify-Music-Analysis Report
 
 ### Introduction
+---
 
 The Spotify Music Analysis Report delves into the listening habits and trends of Spotify users. By analyzing streaming data, the report uncovers fascinating insights into popular genres, top artists, and hit songs. It examines how different factors like seasonality, geographic location, and user demographics influence music preferences. The analysis also highlights emerging trends, such as the rise of independent artists and the growing popularity of niche genres. This comprehensive report helps music industry professionals, artists, and marketers understand the evolving landscape of music consumption, guiding them in making strategic decisions to engage audiences more effectively.
 
