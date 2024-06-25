@@ -1,7 +1,8 @@
 # Spotify-Music-Analysis Report
 
 
-![image](C:\Users\ARIYOM\Downloads\Spotify banner.png)
+![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/c1ac8eff-112a-49e6-bf42-121dc851dfd9)
+
 ### Introduction
 ---
 
